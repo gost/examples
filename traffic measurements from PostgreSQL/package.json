@@ -1,0 +1,16 @@
+{
+  "name": "gost_inserter",
+  "version": "1.0.0",
+  "description": "Inserting NDW traffic data into gost",
+  "main": "gost_inserter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom van Tilburg (Geodan)",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^6.2.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
