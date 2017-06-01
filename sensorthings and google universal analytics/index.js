@@ -1,6 +1,6 @@
 "use strict"
 
-let UA_KEY = 'UA-100244452-1'
+let UA_KEY = 'your_universal_key_here'
 var ua = require('universal-analytics');
 let visitor = ua(UA_KEY);
 const mqtt = require('mqtt')  
