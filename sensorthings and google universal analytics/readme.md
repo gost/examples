@@ -13,3 +13,5 @@ Sample of:
 
 - Send events to Google Universal Analytics
 
+report: https://analytics.google.com/analytics/web/#realtime/rt-event/a100244452w147064589p151869772/
+
